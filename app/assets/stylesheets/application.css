@@ -19,3 +19,15 @@
     color: black;
     border: solid black;
  }
+
+ #portafolio a.boton:focus{
+   background-color: black;
+   color: white;
+   border: solid black;
+}
+
+#portafolio a.boton:hover{
+   background-color: black;
+   color: white;
+   border: solid black;
+}
